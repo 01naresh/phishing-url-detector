@@ -72,3 +72,18 @@ This project is open-source and free to use under the MIT License.
 Naresh Akula
 GitHub: @01naresh
 ---
+🖼️ Screenshots
+---
+
+<img width="1750" height="984" alt="Screenshot 2025-07-19 004751" src="https://github.com/user-attachments/assets/5b6a463c-cda2-4181-977d-07dda8a70278" />
+---
+<img width="922" height="563" alt="Screenshot 2025-07-19 004815" src="https://github.com/user-attachments/assets/218cfedf-5d39-4eac-84dc-23c862b0e410" />
+---
+<img width="941" height="574" alt="Screenshot 2025-07-19 004832" src="https://github.com/user-attachments/assets/dc1b0889-1651-442c-a1d1-458f6baaeacb" />
+---
+<img width="768" height="449" alt="Screenshot 2025-07-19 004850" src="https://github.com/user-attachments/assets/4aaef829-0890-4575-bd2d-61ebfe44b2c9" />
+---
+
+
+
+
